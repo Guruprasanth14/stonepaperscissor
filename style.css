@@ -1,0 +1,13 @@
+.heading{
+	background-color:black;
+	padding: 20px;
+	color: white;
+	font-weight:bold;
+}
+body{
+	background-color:yellow;
+}
+.scorecard{
+	display: inline-block;
+	text-align: center;
+}
